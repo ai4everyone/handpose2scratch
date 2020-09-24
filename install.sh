@@ -12,6 +12,7 @@ npm install @tensorflow/tfjs-core@2.0.1
 npm install @tensorflow/tfjs-converter@2.0.1
 npm install @tensorflow/tfjs-backend-webgl@2.0.1
 npm install @tensorflow-models/handpose@0.0.5
+npm audit fix
 
 
 cd ../../
