@@ -2,10 +2,10 @@ const ArgumentType = require('../../extension-support/argument-type');
 const BlockType = require('../../extension-support/block-type');
 const Cast = require('../../util/cast');
 const formatMessage = require('format-message');
-require('@tensorflow/tfjs-core@2.4.0');
+require('@tensorflow/tfjs-core@2.0.1');
 require('@tensorflow/tfjs-converter@2.0.1');
-require('@tensorflow/tfjs-backend-webgl');
-const handpose = require('@tensorflow-models/handpose');
+require('@tensorflow/tfjs-backend-webgl@2.0.1');
+const handpose = require('@tensorflow-models/handpose@0.0.5');
 
 const Message = {
   getX: {
