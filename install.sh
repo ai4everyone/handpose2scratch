@@ -6,13 +6,12 @@ EXTENSION_NAME=Handpose2Scratch
 EXTENSION_ID=handpose2scratch
 
 cd node_modules/scratch-vm
-npm install
-npm install @tensorflow/tfjs-core@1.2.1 
+
+npm install @tensorflow/tfjs-core@2.4.0
 npm install @tensorflow/tfjs-converter@2.0.1
 npm install @tensorflow/tfjs-backend-webgl
 npm install @tensorflow-models/handpose
 
-npm audit fix
 
 cd ../../
 
