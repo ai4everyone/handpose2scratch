@@ -25,7 +25,7 @@ DESCRIPTION="\
     {${LF}\
         name: '${EXTENSION_NAME}',${LF}\
         extensionId: '${EXTENSION_ID}',${LF}\
-        collaborator: 'champierre',${LF}\
+        collaborator: 'DrDataNG_Bull-B',${LF}\
         iconURL: ${EXTENSION_ID}IconURL,${LF}\
         insetIconURL: ${EXTENSION_ID}InsetIconURL,${LF}\
         description: (${LF}\
